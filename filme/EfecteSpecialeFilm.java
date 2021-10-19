@@ -7,7 +7,6 @@ public enum EfecteSpecialeFilm {
     private EfecteSpecialeFilm(String tip) {
         this.tip = tip;
     }
-    //test
 }
 
 
